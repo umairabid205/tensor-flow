@@ -1,2 +1,12 @@
 # tensor-flow
-This repository serves as a collection of my TensorFlow projects, experiments, and learning materials. It includes code snippets, Jupyter notebooks, and tutorials that I've worked on while learning TensorFlow. Whether you're a beginner or someone looking for examples, feel free to explore, fork, or contribute!
+As I dive into the world of machine learning and deep learning, this repository documents my progress with TensorFlow. It includes:
+
+Basic TensorFlow concepts and operations.
+
+Neural network implementations.
+
+Image and text processing examples.
+
+Model training and evaluation pipelines.
+
+Deployment examples (e.g., TensorFlow Serving, TensorFlow Lite).
